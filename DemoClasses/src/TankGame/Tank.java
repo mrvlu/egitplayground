@@ -5,6 +5,8 @@ public class Tank implements Serializable{
  public int hp;  //not so good
  public String name;
  private int ammo; //better
+ private String image;
+ 
  
  // Constructor of the class 
  // this is where default values are assigned
