@@ -1,3 +1,5 @@
+<a href="https://opengameart.org/content/tank-sprite"><img src="https://opengameart.org/sites/default/files/screen_2.png" title="OpenGameArt.org" alt="GameArt"></a>
+
 # Tank Object Example
 
 Basic example of Saving and Loading an object through serialization.
